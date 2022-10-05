@@ -1,0 +1,15 @@
+/home/pc/Documentos/Projeto-RPG/bin/Debug/net6.0/Projeto-RPG
+/home/pc/Documentos/Projeto-RPG/bin/Debug/net6.0/Projeto-RPG.deps.json
+/home/pc/Documentos/Projeto-RPG/bin/Debug/net6.0/Projeto-RPG.runtimeconfig.json
+/home/pc/Documentos/Projeto-RPG/bin/Debug/net6.0/Projeto-RPG.dll
+/home/pc/Documentos/Projeto-RPG/bin/Debug/net6.0/ref/Projeto-RPG.dll
+/home/pc/Documentos/Projeto-RPG/bin/Debug/net6.0/Projeto-RPG.pdb
+/home/pc/Documentos/Projeto-RPG/obj/Debug/net6.0/Projeto-RPG.csproj.AssemblyReference.cache
+/home/pc/Documentos/Projeto-RPG/obj/Debug/net6.0/Projeto-RPG.GeneratedMSBuildEditorConfig.editorconfig
+/home/pc/Documentos/Projeto-RPG/obj/Debug/net6.0/Projeto-RPG.AssemblyInfoInputs.cache
+/home/pc/Documentos/Projeto-RPG/obj/Debug/net6.0/Projeto-RPG.AssemblyInfo.cs
+/home/pc/Documentos/Projeto-RPG/obj/Debug/net6.0/Projeto-RPG.csproj.CoreCompileInputs.cache
+/home/pc/Documentos/Projeto-RPG/obj/Debug/net6.0/Projeto-RPG.dll
+/home/pc/Documentos/Projeto-RPG/obj/Debug/net6.0/ref/Projeto-RPG.dll
+/home/pc/Documentos/Projeto-RPG/obj/Debug/net6.0/Projeto-RPG.pdb
+/home/pc/Documentos/Projeto-RPG/obj/Debug/net6.0/Projeto-RPG.genruntimeconfig.cache
